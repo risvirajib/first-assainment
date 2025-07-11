@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../newhtml"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "B12A01-landing-launchpad"
+	}
+}
